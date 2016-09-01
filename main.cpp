@@ -3,7 +3,7 @@
  *
  *     Authors:  Antoine TOISOUL LE CANN
  *
- *     Copyright © 2016 Antoine TOISOUL
+ *     Copyright © 2016 Antoine TOISOUL LE CANN
  *              All rights reserved
  *
  *
