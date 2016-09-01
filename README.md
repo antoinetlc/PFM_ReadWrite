@@ -1,10 +1,9 @@
 # PFM_ReadWrite
 PFM file reader and writer.
 
-This programs can be used to read a PFM file to an OpenCV Mat and save an OpenCV Mat to a PFM file.
-A description of the PFM file format can be found here : http://www.pauldebevec.com/Research/HDR/PFM/.
+This open source program provides functions to read and write PFM files. PFM files can be loaded to an OpenCV matrix (Mat) and saved from an OpenCV Mat to a PFM file. A description of the PFM file format can be found here : http://www.pauldebevec.com/Research/HDR/PFM/.
 
-Note that in the current version the files are loaded and saved using little endian format.
+Note that in the current version the files are loaded and saved using little endian format only.
 
 ##VERSION
 Version 1.0
