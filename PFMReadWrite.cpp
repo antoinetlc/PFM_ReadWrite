@@ -3,7 +3,7 @@
  *
  *     Author:  Antoine TOISOUL LE CANN
  *
- *     Copyright © 2016 Antoine TOISOUL LE CANN
+ *     Copyright © 2016 Antoine TOISOUL LE CANN, Imperial College London
  *              All rights reserved
  *
  *
