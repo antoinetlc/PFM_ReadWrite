@@ -9,7 +9,7 @@ Note that in the current version the files are loaded and saved using little end
 Version 1.0
 
 ####Compilation
-This program has been compiled and tested with OpenCV 2.4.11 on Linux.
+This program has been compiled and tested with OpenCV 2.4.11 on Windows ans Linux environments.
 
 
 ####LICENSE

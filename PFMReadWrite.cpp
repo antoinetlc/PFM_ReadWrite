@@ -142,8 +142,8 @@ Mat loadPFM(const string filePath)
  */
 bool savePFM(const cv::Mat image, const std::string filePath)
 {
-    //Open the file
-    ofstream imageFile(filePath.c_str(), ios::out | ios::trunc);
+    //Open the file as binary!
+    ofstream imageFile(filePath.c_str(), ios::out | ios::trunc | ios::binary);
 
     if(imageFile)
     {
