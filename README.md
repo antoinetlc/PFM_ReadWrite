@@ -5,14 +5,14 @@ This open source program provides functions to read and write PFM files. PFM fil
 
 Note that in the current version the files are loaded and saved using little endian format only.
 
-####VERSION
+#### VERSION
 Version 1.0
 
-####Compilation
+#### Compilation
 This program has been compiled and tested with OpenCV 2.4.11 on Windows ans Linux environments.
 
 
-####LICENSE
+#### LICENSE
 
 PFM_ReadWrite. Author :  Antoine TOISOUL LE CANN. Copyright © 2016 Antoine TOISOUL LE CANN, Imperial College London. All rights reserved.
 
